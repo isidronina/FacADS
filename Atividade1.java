@@ -5,7 +5,7 @@ class Atividade1 {
 
         //Exercício 1
         
-        System.out.println("Meu noem é: Ariel Isidro Nina Saavedra");
+        System.out.println("Meu nome é: Ariel Isidro Nina Saavedra");
         System.out.println("Meu registro é:" +111111111 );
         System.out.println("Eu estou cursando: Tecnico em Analise e Desenvolvimento de Sistemas");
         
@@ -29,3 +29,4 @@ class Atividade1 {
     }
 
 }
+

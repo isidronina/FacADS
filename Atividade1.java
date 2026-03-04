@@ -1,6 +1,6 @@
 //Ariel Isidro Nina Saavedra
 
-class Ap {
+class Atividade1 {
     public static void main (String [] args){
 
         //Exercício 1
@@ -27,4 +27,5 @@ class Ap {
         for (int i=1 ; i <=10; i++){System.out.printf("%d X %d = %d%n",numero,i,numero*i);}
 
     }
+
 }

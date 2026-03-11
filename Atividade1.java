@@ -1,11 +1,11 @@
 //Ariel Isidro Nina Saavedra
 
-class Atividade1 {
+class Ap {
     public static void main (String [] args){
 
         //Exercício 1
         
-        System.out.println("Meu nome é: Ariel Isidro Nina Saavedra");
+        System.out.println("Meu noem é: Ariel Isidro Nina Saavedra");
         System.out.println("Meu registro é:" +111111111 );
         System.out.println("Eu estou cursando: Tecnico em Analise e Desenvolvimento de Sistemas");
         
@@ -27,6 +27,4 @@ class Atividade1 {
         for (int i=1 ; i <=10; i++){System.out.printf("%d X %d = %d%n",numero,i,numero*i);}
 
     }
-
 }
-
